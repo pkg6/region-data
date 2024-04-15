@@ -22,3 +22,25 @@ https://raw.githubusercontent.com/pkg6/region-data/main/simple_china_region_leve
 ]
 ~~~
 
+# 简单版中国省市区县数据
+
+https://raw.githubusercontent.com/pkg6/region-data/main/simple_china_region_level4.json
+
+~~~
+[
+  {
+    "id": 1,
+    "name": "北京市",
+    "pid": 0,
+    "level": 1
+  },
+  {
+    "id": 2,
+    "name": "天津市",
+    "pid": 0,
+    "level": 1
+  },
+.....
+]
+~~~
+
